@@ -15,6 +15,6 @@ Colt Steel's Algorithm and Data Structure Course: https://github.com/MrGmo/Algor
 
 Code Wars: https://github.com/MrGmo/codeWars
 
-Free Code Camp: https://github.com/MrGmo/InterestingCodingChallenges
+Free Code Camp: https://github.com/MrGmo/freeCodeCamp
 
 Traversy Media: https://github.com/MrGmo/TraversyArrayPractice
