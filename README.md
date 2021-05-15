@@ -9,7 +9,7 @@ Wes Bos Array Cardio Video Link: https://www.youtube.com/watch?v=HB1ZC7czKRs
 Some of my answers differ a bit from what is the video simply because I wrote out the solutions in a manner that made the most sense to me at the time. :)
 
 
-Check out some of the other Coding Challenges I've completed:
+Check out some of the other coding challenges I've completed:
 
 Colt Steel's Algorithm and Data Structure Course: https://github.com/MrGmo/Algorithms-DataStructures
 
